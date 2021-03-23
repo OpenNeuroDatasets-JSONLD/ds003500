@@ -1,0 +1,15 @@
+onset	duration	block	block_type_intended	block_type_performed	response_time_avg	correct_total	errors_total	false-no_go	false-go	NR	comments
+0.0	8.63	1	go	go	0.5916	3.0	0	n/a	n/a	n/a	after three initial responses no responses for rest of block
+8.63	6.03	1	go	NR	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+14.66	24.12	1	go	go	0.5916	10.0	2	2.0	n/a	n/a	n/a
+38.78	38.78	2	no-go	no-go	0.7937000000000001	16.0	2	n/a	2.0	n/a	n/a
+77.56	38.78	3	go	go	0.4532	17.0	1	1.0	n/a	n/a	n/a
+116.34	38.78	4	no-go	no-go	0.8349	13.0	5	n/a	5.0	n/a	n/a
+155.12	38.78	5	go	go	0.8754	16.0	2	2.0	n/a	n/a	n/a
+193.9	38.78	6	no-go	no-go	0.7723	11.0	7	1.0	6.0	n/a	possibly performed as go-block w/ 4 errors (only 2 consec NR trials)
+232.68	38.78	7	go	go	0.5921000000000001	13.0	5	5.0	n/a	n/a	all but one errors to red triangles altho performed as go-block
+271.46	38.78	8	no-go	no-go	0.6868	11.0	7	1.0	6.0	n/a	possibly performed as go-block w/ 4 errors (only 2 consec NR trials)
+310.24	38.78	9	go	go	0.8331000000000001	17.0	1	1.0	n/a	n/a	n/a
+349.02	38.78	10	no-go	no-go	0.7848999999999999	14.0	4	1.0	3.0	n/a	n/a
+387.8	38.78	11	go	go	0.7413	16.0	2	2.0	n/a	n/a	n/a
+426.58	38.78	12	no-go	go	0.8717	16.0	2	2.0	n/a	n/a	n/a
