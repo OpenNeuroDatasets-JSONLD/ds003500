@@ -1,0 +1,20 @@
+onset	duration	block	block_type_intended	block_type_performed	response_time_avg	correct_total	errors_total	false-neg	false-pos	NR	comments
+0.0	38.84	1	single	single	0.7042	16.0	2	2.0	n/a	n/a	n/a
+38.69	38.87	2	array	array	0.8287	14.0	4	2.0	n/a	2.0	n/a
+77.56	38.69	3	single	single	0.826	12.0	6	2.0	2.0	2.0	n/a
+116.25	38.87	4	array	array	0.912	17.0	1	n/a	n/a	1.0	n/a
+155.12	38.69	5	single	single	0.8244	13.0	5	2.0	3.0	n/a	n/a
+193.81	20.735	6	array	array	1.0482	6.0	3	2.0	1.0	n/a	n/a
+214.545	18.135	6	array	NR	n/a	n/a	n/a	n/a	n/a	n/a	did not perform task during last half of block
+232.68	22.65	7	single	single	0.8791	8.0	2	1.0	n/a	1.0	n/a
+255.33	16.04	7	single	NR	n/a	n/a	n/a	n/a	n/a	n/a	did not perform task after tenth trial of block
+271.37	38.87	8	array	array	0.8488	17.0	1	1.0	n/a	n/a	n/a
+310.24	38.69	9	single	single	0.7018	14.0	4	2.0	2.0	n/a	n/a
+348.93	38.87	10	array	array	0.9569	14.0	4	1.0	2.0	1.0	n/a
+387.8	3.86	11	single	single	0.903	1.0	1	1.0	n/a	n/a	showed 2 periods of 5 consecutive trials w/o performing task
+391.66	12.775	11	single	NR	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+404.435	6.165	11	single	single	0.903	3.0	0	n/a	n/a	n/a	n/a
+410.6	9.875	11	single	NR	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+420.475	6.015	11	single	single	0.903	2.0	1	n/a	1.0	n/a	n/a
+426.49	8.645	12	array	NR	n/a	n/a	n/a	n/a	n/a	n/a	did not perform during 1st 3 trials
+435.135	30.225	12	array	array	0.8104	10.0	5	1.0	2.0	2.0	n/a
